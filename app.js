@@ -2,9 +2,9 @@
 //Primera funcion que hacemos en JS
 
 console.log("HOLA MUNDO DESDE UN ARCHIVO EXTERNO!")
-
+console.log("HOLA MUNDO DESDE UN ARCHIVO EXTERNO! 2")
 /*
 ACA COMENTARIOS
 QUE SEAN ESCALONADOS
 
-*/
+*/gi
